@@ -1,0 +1,14 @@
+utterance,source_component,relation_type,target_component
+6,evidence_example_2,support,evidence_example_1
+8,premise_1,support,claim_1
+8,evidence_deb_cite_1,support,evidence_example_1
+10,evidence_deb_cite_1,support,evidence_example_1
+10,evidence_deb_cite_2,support,evidence_example_1
+12,evidence_deb_cite_1,support,argument_1
+12,evidence_example_1,support,argument_1
+19,evidence_deb_cite_1,support,claim_1
+25,evidence_deb_cite_1,support,claim_1
+27,evidence_deb_cite_1,support,evidence_example_1
+29,premise_1,attack,premise_1
+34,evidence_deb_cite_1,support,evidence_example_1
+36,claim_1,support,claim_1
