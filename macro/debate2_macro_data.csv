@@ -1,0 +1,27 @@
+utterance,source_debater,source_utterance,relation_type,target_utterance,target_debater
+8,debater_2,8,agree,6,debater_1
+14,debater_5,14,agree,12,debater_4
+14,debater_5,14,agree,10,debater_3
+14,debater_5,14,agree,8,debater_2
+14,debater_5,14,agree,6,debater_1
+15,moderator,15,questioning,16,debater_1
+17,moderator,17,questioning,18,debater_4
+18,debater_4,18,disagree,16,debater_1
+19,debater_5,19,partially agree,18,debater_4
+20,debater_1,20,agree,18,debater_4
+21,moderator,21,questioning,22,debater_2
+23,moderator,23,questioning,24,debater_5
+25,moderator,25,questioning,26,debater_3
+27,moderator,27,questioning,28,debater_4
+28,debater_4,28,discuss,26,debater_3
+29,moderator,29,questioning,30,debater_4
+31,debater_3,31,disagree,30,debater_4
+32,debater_5,32,partially agree,31,debater_3
+33,moderator,33,questioning,34,debater_5
+35,moderator,35,questioning,36,debater_4
+37,debater_3,37,disagree,36,debater_4
+38,debater_5,38,agree,36,debater_4
+38,debater_5,38,disagree,37,debater_3
+39,debater_1,39,agree,38,debater_5
+40,moderator,40,questioning,41,debater_1
+42,debater_2,42,agree,41,debater_1

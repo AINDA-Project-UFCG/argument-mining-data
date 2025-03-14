@@ -1,0 +1,22 @@
+utterance,source_debater,source_utterance,relation_type,target_utterance,target_debater
+1,,1,questioning,2,
+2,,7,agree,6,
+3,,20,disagre,15,
+6,moderator,12,questioning,13,debater_3
+7,moderator,14,questioning,15,debater_4
+8,moderator,16,questioning,17,debater_5
+9,moderator,18,questioning,19,debater_1
+10,moderator,20,questioning,21,debater_2
+11,moderator,22,questioning,23,debater_3
+12,debater_3,25,disagree,21,debater_2
+13,moderator,30,questioning,33,debater_3
+14,moderator,36,questioning,37,debater_2
+15,debater_2,37,disagree,33,debater_3
+16,moderator,38,questioning,39,debater_4
+17,moderator,40,questioning,41,debater_4
+18,moderator,42,questioning,43,debater_5
+19,moderator,44,questioning,45,debater_3
+20,moderator,48,questioning,49,debater_3
+,,,,,
+,,,,,
+ ,,,,,

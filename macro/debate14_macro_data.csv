@@ -1,0 +1,14 @@
+utterance,source_debater,source_utterance,relation_type,target_utterance,target_debater
+7,moderator,7,questioning,8,debater_1
+10,debater_2,10,agree,8,debater_1
+17,moderator,17,questioning,18,debater_1
+18,debater_1,18,agree,12,debater_3
+19,moderator,19,questioning,20,debater_2
+21,moderator,21,questioning,22,debater_3
+26,debater_2,26,agree,24,debater_5
+27,moderator,27,questioning,28,debater_4
+30,debater_2,30,agree,28,debater_4
+32,debater_5,32,disagreee,30,debater_2
+33,moderator,33,questioning,34,debater_5
+35,moderator,35,questioning,36,debater_5
+37,moderator,37,questioning,38,"debater_1, debater_2, debater_3, debater_4, debater_5"

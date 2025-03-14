@@ -1,0 +1,50 @@
+utterance,source_debater,source_utterance,relation_type,target_utterance,target_debater
+1,moderator,1,questioning,2,debater_1
+3,moderator,3,questioning,4,debater_2
+4,debater_2,4,agree,2,debater_1
+10,debater_5,10,agree,8,debater_4
+11,moderator,11,questioning,12,debater_1
+13,moderator,13,questioning,14,debater_5
+14,debater_5,14,agree,12,debater_1
+15,moderator,15,questioning,16,debater_1
+16,debater_1,16,agree,14,debater_5
+17,moderator,17,questioning,18,debater_2
+19,moderator,19,questioning,20,debater_2
+21,moderator,21,questioning,22,debater_4
+23,moderator,23,questioning,24,debater_3
+24,debater_3,24,agree,22,debater_4
+25,moderator,25,questioning,26,debater_3
+27,moderator,27,questioning,28,debater_3
+28,debater_2,28,partially agree,26,debater_3
+29,moderator,29,questioning,30,debater_3
+30,debater_3,30,partially agree,28,debater_2
+31,moderator,31,questioning,32,debater_1
+32,debater_1,32,partially agree,30,debater_3
+33,moderator,33,questioning,33,debater_4
+34,debater_4,34,disagree,32,debater_1
+34,debater_4,34,partially disagree,30,debater_3
+35,moderator,35,questioning,36,debater_4
+37,moderator,37,questioning,38,debater_4
+39,moderator,39,questioning,40,debater_2
+40,debater_2,40,disagree,38,debater_4
+40,debater_2,40,partially agree,38,debater_4
+41,moderator,41,questioning,42,debater_4
+42,debater_4,42,partially agree,40,debater_2
+43,moderator,43,questioning,43,debater_5
+45,moderator,45,questioning,46,debater_4
+46,debater_4,46,disagree,44,debater_5
+47,moderator,47,questioning,48,debater_5
+48,debater_5,48,partially agree,46,debater_2
+49,moderator,49,questioning,50,debater_3
+50,debater_3,50,partially agree,46,debater_4
+50,debater_3,50,partially agree,48,debater_5
+51,moderator,51,questioning,52,debater_4
+53,moderator,53,questioning,54,debater_2
+54,debater_2,54,agree,52,debater_4
+55,moderator,55,questioning,56,debater_4
+56,debater_4,56,agree,54,debater_2
+57,moderator,57,questioning,58,debater_1
+58,debater_1,58,agree,56,debater_4
+59,moderator,59,questioning,60,debater_1
+61,moderator,61,questioning,63,debater_2
+65,debater_3,65,agree,63,debater_2
